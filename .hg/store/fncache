@@ -1,0 +1,336 @@
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim04.png.meta.i
+data/ProjectSettings/GraphicsSettings.asset.i
+data/Assets/Sound/Balloon_casket_hit_oneshot.wav.d
+data/Assets/Textures/Maps/Floating Islands/Floating_islands_FG.png.d
+data/Assets/Prefabs/Projectiles/Projectile_Cleo.prefab.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_BG.png.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_4.png.meta.i
+data/Assets/Textures/Maps/The Aztec.meta.i
+data/ProjectSettings/TimeManager.asset.i
+data/Assets/Textures/Maps/Floating Islands/Floating_islands_FG.png.meta.i
+data/Assets/Textures/Powerup/Power_Up09.png.i
+data/Assets/Textures/Characters/Wizard.meta.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim03.png.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim01.png.meta.i
+data/Assets/Scripts/ParticleOnDestroy.cs.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet BG.png.meta.i
+data/Assets/Scripts/DestroyOnCollision.cs.i
+data/Assets/Textures/Characters/Wizard/Projectile_Wiz.png.meta.i
+data/Assets/Prefabs/Effects/AirHole.prefab.i
+data/Assets/Textures/Maps.meta.i
+data/Assets/Textures/Maps/Alien/Big_stone.png.meta.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim06.png.meta.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_Sky.png.meta.i
+data/Assets/Scripts/Rigidbody2DStabilizer.cs.meta.i
+data/Assets/Scripts/DynamicCamera.cs.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Bubble.controller.meta.i
+data/Assets/Textures/Powerup/Power_Up03.png.i
+data/Assets/Textures/Powerup/Power_Up15.png.meta.i
+data/obj/Debug/Assembly-CSharp-vs.csproj.FileListAbsolute.txt.i
+data/Assets/Textures/Powerup/Power_Up00.png.i
+data/Assets/Sound/Scene_ambience_floatingIslands_loop.wav.meta.i
+data/Assets/Textures/Characters/Alien/Alien_projectile.png.meta.i
+data/Assets/Prefabs/Effects/PickedUp.prefab.meta.i
+data/Assets/Textures/Powerup/Power_Up08.png.meta.i
+data/Assets/Scripts/JellySprites/Editor.meta.i
+data/Assets/Textures/Characters/Alien/Alien_Balloon.png.i
+data/Assets/Textures/Maps/Floating Islands/Floating_islands_FG.png.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble07.png.i
+data/Assets/Textures/Powerup/Power_Up00.png.d
+data/Assets/Materials.meta.i
+data/Assets/Textures/Maps/Floating Islands/Background.meta.i
+data/Assets/Sound/Char_wizard_fire_oneshot.wav.meta.i
+data/Assets/Textures/Powerup/Power_Up17.png.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim00.png.meta.i
+data/Assets/Sound/Tower_beam_oneshot.wav.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet BG 1.png.meta.i
+data/Assets/Textures/Characters/Aztec.meta.i
+data/Assets/Textures/Powerup/Power_Up11.png.meta.i
+data/Assets/Scripts/DestroyOnCollision.cs.meta.i
+data/Assets/Sound/Balloon_leak_oneshot.wav.i
+data/Assets/Sound/Balloon_hit_oneshot.wav.d
+data/Assets/Textures/Characters/Cleopatra/Projectile_Cleo.png.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet FG 1.png.meta.i
+data/Assets/Prefabs/Projectiles/Projectile_Wiz.prefab.i
+data/Assets/Textures/Maps/Alien/Alien Planet Sky.png.d
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble11.png.i
+data/Assets/Textures/Powerup/Power_Up06.png.d
+data/Assets/Scripts/VelocityLimiter.cs.i
+data/Assets/Sound/Char_wizard_pump_oneshot.wav.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet FG 1.png.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble05.png.meta.i
+data/ProjectSettings/ProjectVersion.txt.i
+data/Assets/Textures/Characters/Wizard/Projectile_Wiz.png.i
+data/Assets/Textures/Maps/Alien/Alien Planet FG 1.png.d
+data/Assets/Scripts/JellySprites/Scripts.meta.i
+data/Assets/Textures/Characters/Alien/Animation Idle.meta.i
+data/Assets/Scripts/Arduino.cs.i
+data/Assets/Textures/Maps/Alien/Planet1.png.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_MG.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble00.png.meta.i
+data/Assets/Scripts.meta.i
+data/Assets/Textures/Powerup/Power_Up14.png.meta.i
+data/Assets/Textures/Powerup/Power_Up16.png.d
+data/Assets/Textures/Powerup/Power_Up07.png.d
+data/Assets/Textures/Characters/Alien/Alien_projectile2BUBBLE.png.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet MG.png.d
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_1.png.i
+data/Assets/Textures/Powerup/Power_Up03.png.meta.i
+data/Assets/Textures/Powerup/Power_Up05.png.meta.i
+data/Assets/Scripts/JellySprites/Editor/JellySpriteEditor.cs.meta.i
+data/Assets/Sound/Char_cleopatra_fire_oneshot.wav.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_3.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Bubble.anim.meta.i
+data/Assets/Sound/Char_cleopatra_fire_oneshot.wav.d
+data/Assets/Scripts/PlayerProjectileShooter.cs.i
+data/Assets/Textures/Maps/Alien/Big_stone.png.i
+data/ProjectSettings/TagManager.asset.i
+data/Assets/Textures/Maps/Alien/small_stone.png.meta.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_Sky.png.i
+data/Assets/Sound/Balloon_casket_hit_oneshot.wav.meta.i
+data/Assets/Textures/Maps/Egypt/Background/Egypt_BG.png.meta.i
+data/Assets/Prefabs.meta.i
+data/Assets/Scripts/JellySprites/Editor/UnityJellySpriteEditor.cs.meta.i
+data/Assets/Textures/Powerup/Power_Up06.png.meta.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_Sky.png.d
+data/Assets/Scripts/JellySprites/readme.rtf.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble02.png.i
+data/Assets/Textures/Maps/Alien/Alien Planet MG.png.i
+data/Assets/Textures/Menu.meta.i
+data/Assets/Textures/Maps/Alien/Planet1.png.meta.i
+data/Assets/Scripts/JellySprites/2D Toolkit/2DToolkitJellySprites.unitypackage.i
+data/ProjectSettings/NetworkManager.asset.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble04.png.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet FG.png.meta.i
+data/Assets/Sound/Balloon_leak_oneshot.wav.meta.i
+data/Assets/Scripts/JellySprites/2D Toolkit.meta.i
+data/Assets/Textures/Powerup/Power_Up01.png.d
+data/Assets/Prefabs/Effects.meta.i
+data/Assets/Sound.meta.i
+data/Assets/Scripts/JellySprites/Scripts/JellySprite.cs.i
+data/Assets/Textures/Powerup/Power_Up07.png.meta.i
+data/Assets/Scenes/Map_Alien.unity.i
+data/Assets/Scripts/JellySprites/2D Toolkit/Important.rtf.meta.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim05.png.i
+data/Assets/Textures/Powerup/Power_Up13.png.d
+data/Assets/Sound/Char_cleopatra_pump_oneshot.wav.meta.i
+data/Assets/Textures/Maps/Alien/small_stone.png.i
+data/Assets/Scripts/LimitedLifetime.cs.meta.i
+data/Assets/Scripts/PlayerProjectileShooter.cs.meta.i
+data/Assets/Scripts/Movement.cs.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble09.png.i
+data/Assets/Prefabs/Power_Up.prefab.i
+data/Assets/Scripts/EffectOnDestroy.cs.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet BG 1.png.i
+data/ProjectSettings/EditorBuildSettings.asset.i
+data/Assets/Textures/Powerup/Power_Up08.png.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble11.png.meta.i
+data/Assets/Textures/Powerup/Power_Up10.png.d
+data/Assets/Textures/Powerup/Power_Up08.png.d
+data/Assets/Scripts/JellySprites/Scripts/JellyBridge.cs.i
+data/Assets/Textures/Powerup/Power_Up10.png.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble01.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Bubble.controller.i
+data/Assets/Textures/Maps/Alien/Alien Planet BG 1.png.d
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_5.png.meta.i
+data/Assets/Textures/Maps/Egypt/Background/Egypt_MG.png.meta.i
+data/Assets/Textures/Characters/Cleopatra.meta.i
+data/Assets/Textures/Powerup/Power_Up17.png.d
+data/Assets/Textures/Powerup/Power_Up05.png.d
+data/Assets/Scripts/JellySprites/Scripts/UnityJellySprite.cs.i
+data/ProjectSettings/EditorSettings.asset.i
+data/Assets/Textures/Characters/Cleopatra/Projectile_Cleo.png.i
+data/Assets/Prefabs/Prefabs här.txt.meta.i
+data/Assets/Scripts/JellySprites/Scripts/UnityJellySprite.cs.meta.i
+data/Assets/Textures/Maps/Alien/Planet1.png.d
+data/Assets/Textures/Powerup/Power_UP_Anim2.anim.meta.i
+data/Assets/Prefabs/Effects/PickedUp.prefab.i
+data/ProjectSettings/DynamicsManager.asset.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble04.png.i
+data/Assets/Textures/Maps/Alien/Alien Planet MG.png.meta.i
+data/Assets/Prefabs/Projectiles/Projectile_Wiz.prefab.meta.i
+data/Assets/Textures/Powerup/Power_Up15.png.i
+data/Assets/Textures/Powerup/Power_Up06.png.i
+data/Assets/Textures/Powerup/Power_Up10.png.meta.i
+data/Assets/Textures/Powerup/Power_Up16.png.meta.i
+data/Assets/Textures/Maps/Egypt/Egypt_FG.png.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_7.png.meta.i
+data/Assets/Sound/Balloon_casket_impact_oneshot.wav.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble03.png.i
+data/Assets/Textures/Powerup/Power_Up12.png.d
+data/Assets/Textures/Powerup/Power_Up01.png.i
+data/Assets/Sound/Tower_beam_oneshot.wav.d
+data/obj/Debug/Assembly-CSharp-Editor-vs.csproj.FileListAbsolute.txt.i
+data/Assets/Textures/Maps/Egypt/Egypt_FG.png.d
+data/Assets/Sound/Char_alien_pump_oneshot.wav.meta.i
+data/Assets/Textures/Powerup/Power_Up00.png.meta.i
+data/Assets/Textures/Powerup/Power_Up13.png.i
+data/Assets/Textures/Maps/Alien/Bubbles.meta.i
+data/Assets/Scripts/Arduino.cs.meta.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_1.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble02.png.meta.i
+data/Assets/Scripts/JellySprites/Scripts/JellySprite.cs.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble07.png.meta.i
+data/Assets/Scripts/JellySprites.meta.i
+data/Assets/Textures/Powerup/Power_Up01.png.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet BG.png.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_7.png.i
+data/Assets/Textures/Powerup/Power_Up04.png.meta.i
+data/Assets/Scripts/Movement.cs.i
+data/Assets/Prefabs/Effects/AirHole.prefab.meta.i
+data/Assets/Sound/Balloon_leak_oneshot.wav.d
+data/Assets/Scripts/LimitedLifetime.cs.i
+data/Assets/Scripts/ParallaxBackground.cs.meta.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_6.png.meta.i
+data/Assets/Textures/Maps/Alien/Medium_stone.png.i
+data/Assets/Textures/Powerup/Power_UP_Anim.anim.i
+data/Assets/Textures/Maps/Egypt/Background/Egypt_Clouds.png.meta.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim02.png.i
+data/ProjectSettings/AudioManager.asset.i
+data/Assets/Textures/GUI.meta.i
+data/Assets/Textures/Powerup/Power_Up00.controller.i
+data/Assets/Textures/Powerup/Power_Up15.png.d
+data/Assets/Textures/Maps/Egypt/Background/Egypt_BG.png.i
+data/Assets/Scenes/Map_FloatingIslands.unity.meta.i
+data/Assets/Textures/Powerup/Power_Up05.png.i
+data/Assets/Textures/Characters/Alien/Alien_Balloon.png.meta.i
+data/Assets/Textures/Characters/Alien/Alien_projectile.png.i
+data/Assets/Prefabs/Projectiles/Alien_projectile.prefab.meta.i
+data/Assets/Sound/Char_cleopatra_fire_oneshot.wav.meta.i
+data/Assets/Sound/Balloon_impact_oneshot.wav.meta.i
+data/Assets/Scenes/Map_FloatingIslands.unity.i
+data/Assets/Textures/Powerup/Power_Up14.png.d
+data/Assets/Sound/Char_wizard_fire_oneshot.wav.d
+data/Assets/Textures/Powerup/Power_Up07.png.i
+data/Assets/Sound/Char_wizard_fire_oneshot.wav.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim03.png.meta.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_4.png.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim06.png.i
+data/Assets/Textures/Powerup/Power_UP_Anim2.anim.i
+data/Assets/Textures/Powerup/Power_Up04.png.d
+data/.hgignore.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_5.png.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble05.png.i
+data/Assets/Textures/Powerup/Power_Up09.png.d
+data/Assets/Scripts/DynamicCamera.cs.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim00.png.i
+data/Assets/Textures/Powerup/Power_Up03.png.d
+data/Assets/Textures/Maps/Egypt/Background/Egypt_Sky.png.i
+data/Assets/Textures/Powerup/Power_Up12.png.i
+data/Assets/Textures/Powerup/Power_UP_Anim.anim.meta.i
+data/Assets/Sound/Balloon_casket_impact_oneshot.wav.meta.i
+data/Assets/Scripts/PlayerAirBalloon.cs.meta.i
+data/Assets/Textures/Maps/Alien/Planet2.png.i
+data/Assets/Scripts/JellySprites/Scripts/JellyBridge.cs.meta.i
+data/Assets/Textures/Maps/Alien/Planet2.png.d
+data/ProjectSettings/Physics2DSettings.asset.i
+data/Assets/Prefabs/Projectiles.meta.i
+data/Assets/Sound/Balloon_casket_hit_oneshot.wav.i
+data/Assets/Textures/Maps/Egypt/Background/Egypt_MG.png.d
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble00.png.i
+data/Assets/Textures/Powerup/Power_Up02.png.i
+data/Assets/Sound/Char_alien_fire_oneshot.wav.meta.i
+data/Assets/Textures/Maps/Floating Islands/Islands.meta.i
+data/Assets/Textures/Maps/Egypt/Background/Egypt_MG.png.i
+data/Assets/Scenes/Map_Alien.unity.meta.i
+data/Assets/Textures/Characters.meta.i
+data/Assets/Scripts/Rigidbody2DStabilizer.cs.i
+data/Assets/Textures/Powerup/Power_Up16.png.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim02.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Bubble.anim.i
+data/Assets/Sound/Char_alien_pump_oneshot.wav.i
+data/Assets/Textures/Powerup/Power_Up14.png.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_2.png.i
+data/Assets/Sound/Char_alien_pump_oneshot.wav.d
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_3.png.i
+data/ProjectSettings/NavMeshAreas.asset.i
+data/Assets/Scripts/JellySprites/readme.rtf.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble08.png.meta.i
+data/Assets/Scripts/JellyBalloon.cs.i
+data/Assets/Scripts/ParticleOnDestroy.cs.i
+data/Assets/Sound/Balloon_impact_oneshot.wav.i
+data/Assets/Scripts/JellySprites/Editor/UnityJellySpriteEditor.cs.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_BG.png.meta.i
+data/Assets/Textures/Powerup/Power_Up02.png.d
+data/Assets/Sound/Scene_ambience_floatingIslands_loop.wav.d
+data/ProjectSettings/QualitySettings.asset.i
+data/Assets/Textures/Maps/Egypt.meta.i
+data/Assets/Sound/Char_alien_fire_oneshot.wav.d
+data/Assets/Scripts/ParallaxBackground.cs.i
+data/Assets/Prefabs/Projectiles/Projectile_Cleo.prefab.meta.i
+data/Assets/Sound/Char_alien_fire_oneshot.wav.i
+data/Assets/Scripts/JellySprites/2D Toolkit/2DToolkitJellySprites.unitypackage.meta.i
+data/Assets/Scripts/EffectOnDestroy.cs.i
+data/Assets/Sound/Scene_ambience_floatingIslands_loop.wav.i
+data/Assets/Textures/Maps/Alien/Medium_stone.png.meta.i
+data/Assets/Scripts/JellySprites/2D Toolkit/Important.rtf.i
+data/ProjectSettings/InputManager.asset.i
+data/Assets/Sound/Char_wizard_pump_oneshot.wav.d
+data/Assets/Scripts/JellySprites/Scripts/JellySpriteReferencePoint.cs.meta.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_6.png.i
+data/Assets/Textures/Powerup/Power_Up09.png.meta.i
+data/Assets/Prefabs/Power_Up.prefab.meta.i
+data/Assets/Sound/Tower_beam_oneshot.wav.i
+data/Assets/Textures/Powerup/Power_Up04.png.i
+data/Assets/Scenes.meta.i
+data/Assets/Textures/Maps/Alien.meta.i
+data/Assets/Sound/Char_wizard_pump_oneshot.wav.i
+data/Assets/Textures/Characters/Alien/Alien_projectile2.png.i
+data/Assets/Textures/Characters/Alien.meta.i
+data/ProjectSettings/ProjectSettings.asset.i
+data/Assets/Textures/Characters/Viking.meta.i
+data/Assets/Textures/Characters/Alien/Alien_projectile2.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble01.png.i
+data/Assets/Textures.meta.i
+data/Assets/Prefabs/Prefabs här.txt.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim05.png.meta.i
+data/Assets/Materials/Alien_Projectile_Bubble.mat.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim04.png.i
+data/Assets/Sound/Balloon_hit_oneshot.wav.meta.i
+data/Assets/Scripts/PlayerAirBalloon.cs.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble06.png.meta.i
+data/Assets/Textures/Characters/Alien/Alien_projectile2BUBBLE.png.i
+data/Assets/Textures/Powerup/Power_Up00.controller.meta.i
+data/Assets/Scripts/JellyBalloon.cs.meta.i
+data/Assets/Textures/Powerup/Power_Up11.png.i
+data/Assets/Textures/Characters/Pirate.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble08.png.i
+data/Assets/Scripts/MicInput.cs.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble06.png.i
+data/Assets/Prefabs/Projectiles/Alien_projectile.prefab.i
+data/Assets/Materials/Alien_Projectile_Bubble.mat.meta.i
+data/Assets/Textures/Powerup.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet Sky.png.meta.i
+data/Assets/Textures/Powerup/Power_Up11.png.d
+data/Assets/Textures/Powerup/Power_Up02.png.meta.i
+data/Assets/Textures/Maps/Alien/Alien Planet FG.png.d
+data/Assets/Effects.meta.i
+data/Assets/Sound/Char_cleopatra_pump_oneshot.wav.i
+data/Assets/Scripts/JellySprites/Scripts/JellyCameraFollow.cs.i
+data/Assets/Textures/Maps/Alien/Alien Planet FG.png.i
+data/Assets/Sound/Char_cleopatra_pump_oneshot.wav.d
+data/Assets/Textures/Maps/Egypt/Background/Egypt_Clouds.png.d
+data/Assets/Scripts/JellySprites/Editor/JellySpriteEditor.cs.i
+data/Assets/Textures/Powerup/Power_Up12.png.meta.i
+data/Assets/Scripts/MicInput.cs.meta.i
+data/Assets/Sound/Balloon_impact_oneshot.wav.d
+data/Assets/Textures/Powerup/Power_Up17.png.meta.i
+data/Assets/Sound/Balloon_hit_oneshot.wav.i
+data/Assets/Textures/Maps/Egypt/Background.meta.i
+data/Assets/Textures/Characters/Alien/Animation Idle/alien_idle_anim01.png.i
+data/Assets/Textures/Maps/Alien/Alien Planet Sky.png.i
+data/Assets/Scripts/JellySprites/Scripts/JellySpriteReferencePoint.cs.i
+data/Assets/Textures/Maps/Floating Islands.meta.i
+data/Assets/Textures/Maps/Egypt/Background/Egypt_Sky.png.meta.i
+data/Assets/Textures/Maps/Floating Islands/Islands/Isle_2.png.meta.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_MG.png.d
+data/Assets/Textures/Maps/Egypt/Background/Egypt_Sky.png.d
+data/Assets/Scripts/VelocityLimiter.cs.meta.i
+data/Assets/Textures/Maps/Alien/Planet2.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble09.png.meta.i
+data/Assets/Textures/Maps/Egypt/Egypt_FG.png.meta.i
+data/Assets/Scripts/JellySprites/Scripts/JellyCameraFollow.cs.meta.i
+data/Assets/Textures/Powerup/Power_Up13.png.meta.i
+data/Assets/Textures/Maps/Alien/Bubbles/Ground bubble03.png.meta.i
+data/Assets/Textures/Maps/Egypt/Background/Egypt_Clouds.png.i
+data/Assets/Textures/Maps/Floating Islands/Background/Floating_islands_MG.png.i
